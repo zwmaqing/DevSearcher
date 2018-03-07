@@ -1,0 +1,24 @@
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.exe
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.pdb
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.UdpBroadcasefrm.resources
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.Properties.Resources.resources
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.csproj.GenerateResource.Cache
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.exe
+D:\博客园里的例子\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.pdb
+J:\360云盘\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.exe
+J:\360云盘\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.pdb
+J:\360云盘\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.exe
+J:\360云盘\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.pdb
+J:\360云盘\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.csprojResolveAssemblyReference.cache
+J:\360云盘\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.UdpBroadcasefrm.resources
+J:\360云盘\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.Properties.Resources.resources
+J:\360云盘\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.csproj.GenerateResource.Cache
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.exe.config
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.exe
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.UdpBroadcasefrm.resources
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.Properties.Resources.resources
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.csproj.GenerateResource.Cache
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.exe
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.pdb
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\bin\Debug\UDPBroadcast.pdb
+J:\My work space simultaneously\MyDotNETProject\Vs2013\UDPBroadcast\UDPBroadcast\obj\x86\Debug\UDPBroadcast.csprojResolveAssemblyReference.cache

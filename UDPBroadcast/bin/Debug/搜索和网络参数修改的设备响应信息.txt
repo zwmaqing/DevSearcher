@@ -1,0 +1,9 @@
+收到搜索信息后的响应：
+
+{"AliasName":"门口喇叭","Type":"IP","HardwareVersion":"g546456.546363.gjhb","SoftwareVersion":"d658756867.643bgg","SN":"325234523.34563463","IsDHCP":false,"IPV4":"192.168.1.89","SubnetMask":"255.255.255.0","Gateway":"192.168.1.1","DNS":"61.139.2.69"}
+
+收到修改网络参数，修改成功后返回：
+SN 与为本机序列号
+
+{"Status":true,"StatusCode":200,"SN":"325234523.34563463","StatusMessage":"Set newIP Success."}
+

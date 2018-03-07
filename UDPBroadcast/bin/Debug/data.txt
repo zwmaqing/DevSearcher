@@ -1,0 +1,5 @@
+{"AliasName":"","Type":"IP","HardwareVersion":"g546456.546363.gjhb","SoftwareVersion":"d658756867.643bgg","SN":"325234523.34563463","IsDHCP":false,"IPV4":"192.168.1.89","SubnetMask":"","Gateway":"","DNS":""}
+
+
+{"Status":true,"StatusCode":200,"SN":"435432652","StatusMessage":"Set newIP Success."}
+
